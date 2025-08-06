@@ -62,9 +62,9 @@ Me chamo Isabela Frata e tenho 17 anos. Atualmente, estou cursando o 2º ano do 
     title="mySQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
-/>        
-
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+/>      
+          
 <br/>
 <br/>
 
