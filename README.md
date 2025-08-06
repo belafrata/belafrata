@@ -54,8 +54,7 @@ Me chamo Isabela Frata e tenho 17 anos. Atualmente, estou cursando o 2º ano do 
     title="Csharp"
     width="30px" 
     style="padding-right: 10px;" 
-    
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
 />
 <img 
     align="left" 
