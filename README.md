@@ -63,14 +63,4 @@ Me chamo Isabela Frata e tenho 17 anos. Atualmente, estou cursando o 2º ano do 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
-/>      
-          
-<br/>
-<br/>
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=belafrata&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+/>
