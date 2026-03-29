@@ -2,7 +2,7 @@
 
 **`Estudante de Desenvolvimento de Sistemas`**
 
-Me chamo Isabela Frata e tenho 17 anos. Atualmente, estou cursando o 2º ano do ensino médio integrado ao técnico de Desenvolvimento de Sistemas na Etec Prof. Basilides de Godoy. 
+Me chamo Isabela Frata e tenho 17 anos. Atualmente, estou cursando o 3º ano do ensino médio integrado ao técnico de Desenvolvimento de Sistemas na Etec Prof. Basilides de Godoy. 
 
 ---
 
